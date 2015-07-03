@@ -1,4 +1,4 @@
-﻿# Tweet-a-temperature
+﻿# Temperatter
 
 Tweet a temperature with your Raspberry Pi.
 
